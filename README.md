@@ -348,7 +348,8 @@ Ele irá salvar seu código
 *   No terminal, execute o arquivo JavaScript usando Node.js:
     ```bash
     node dist/index.js
-    ```
+    
+```ts
 *   Você deverá ver a saída: === MENU DE EXERCÍCIOS ===
 1 - Soma de dois números
 2 - Verificar par ou ímpar
@@ -369,5 +370,5 @@ Ele irá salvar seu código
 17 - Jogo de adivinhação
 18 - Contar palavras em uma frase
 0 - Sair
-
+```ts
 
