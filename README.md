@@ -113,6 +113,7 @@
     return `Olá, ${nome}!`;
 }
 
+```ts
 import readline from 'readline-sync';
 
 
