@@ -370,5 +370,5 @@ Ele irá salvar seu código
 17 - Jogo de adivinhação
 18 - Contar palavras em uma frase
 0 - Sair
-```ts
+
 
