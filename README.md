@@ -1,7 +1,5 @@
 # MENU-INTERATIVO
-Utilizado para estudos/pratica.
-
-# menu-de-exercicios**Passo a Passo: Criando um Projeto TypeScript no VS Code**
+**Passo a Passo: Criando um Projeto TypeScript no VS Code**
 
 **Pré-requisitos:**
 
@@ -112,9 +110,11 @@ Utilizado para estudos/pratica.
 *   Adicione o código TypeScript simples ao `src/index.ts`:
     ```typescript
     function saudar(nome: string): string {
-        return `O// Importação do módulo readline-sync para entrada de dados
-```ts
+    return `Olá, ${nome}!`;
+}
+
 import readline from 'readline-sync';
+
 
 function exercicio1() {
   const a = readline.questionInt('Digite o primeiro número: ');
