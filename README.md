@@ -110,8 +110,7 @@
 *   Adicione o código TypeScript simples ao `src/index.ts`:
     ```typescript
     function saudar(nome: string): string {
-    return `Olá, ${nome}!`;
-}
+    return `Olá, ${nome}!`; }
 
 ```ts
 import readline from 'readline-sync';
